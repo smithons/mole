@@ -1,0 +1,110 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV1" tvg-logo="https://i.imgur.com/DQMongs.jpg" group-title="Local Channel",TV1
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+#EXTINF:-1 tvg-id="TV2" tvg-logo="https://i.imgur.com/AWUeZib.jpg" group-title="Local Channel",TV2
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+
+#EXTINF:-1 tvg-id="TV6" tvg-logo="https://i.imgur.com/VMdSIul.jpg" group-title="Local Channel",TV6
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+
+#EXTINF:-1 tvg-id="Okey" tvg-logo="https://i.imgur.com/pgY5TB7.jpg" group-title="Local Channel",TV Okey
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+#EXTINF:-1 tvg-id="TV3" tvg-logo="https://i.imgur.com/16aZH1I.jpg" group-title="Local Channel",TV3
+https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="8TV" tvg-logo="https://i.imgur.com/rrODCIC.jpg" group-title="Local Channel",8TV
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="TV9" tvg-logo="https://i.imgur.com/lHEKN90.jpg" group-title="Local Channel",TV9
+https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="AstroAwani" tvg-logo="https://i.imgur.com/bZtcbVi.jpg" group-title="Local Channel",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UaD4sXM.jpg" group-title="Local Channel",RTM Parlimen (Dewan Negara)
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u21hjmi.jpg" group-title="Local Channel",RTM Parlimen (Dewan Rakyat)
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
+
+#EXTINF:-1 tvg-id="BERITARTM" tvg-logo="https://i.imgur.com/4BImNDp.jpg" group-title="Local Channel",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+#EXTINF:-1 tvg-id="TVSUKAN" tvg-logo="https://i.imgur.com/7WJstQO.jpg" group-title="Local Channel",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-id="TVIKIM" tvg-logo="https://i.imgur.com/kqgw3jr.jpg" group-title="Local Channel",TVIKIM
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/wxTcyUW.jpg" group-title="News",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/usSAT9N.jpg" group-title="News",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/Zxcy587.jpg" group-title="News",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/NiIs46L.jpg" group-title="News",ABC Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/4bDdTTH.jpg" group-title="News",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/9ykwKBM.jpg" group-title="News",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/hcPKGCO.jpg" group-title="News",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/eQCKKRT.jpg" group-title="News",NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/IhHJeFR.jpg" group-title="Variety",TLC
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/JamizHs.jpg" group-title="Variety",Food Network
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/05YTphN.jpg" group-title="Variety",Discovery
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/dK0WqMj.jpg" group-title="Variety",Discovery Turbo
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryturbo.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/SAey8Yt.jpg" group-title="Variety",Animal Planet
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/kkuDseg.jpg" group-title="Variety",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/ZOhO8k2.jpg" group-title="Variety",Investigation Discovery
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/investigationdiscovery.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/b4uXE1D.jpg" group-title="Variety",DMAX
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/GJrSdzc.jpg" group-title="Variety",TRVL
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/wuQVvbc.jpg" group-title="Variety",Dunia Sinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/tohDIwP.jpg" group-title="Variety",BeIN Sports 1
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/UqnLjTt.jpg" group-title="Variety",BeIN Sports 2
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/9BmdeCX.jpg" group-title="Variety",unifi Sports
+https://unifi-live08.secureswiftcontent.com/UnifiHD/live11.mpd
